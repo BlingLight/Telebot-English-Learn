@@ -5,7 +5,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('6088848645:AAGXuio8eEIACIXmzqlcgueAll-wT9RmBTI')
+bot = telebot.TeleBot('TOKEN_API')
 
 
 
